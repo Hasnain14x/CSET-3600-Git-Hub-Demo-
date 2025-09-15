@@ -1,0 +1,11 @@
+/*
+Name: Hasnain Raza
+Class: CSET 3600
+Instructor: Don Miller
+Homework: 1 - Date: 9/15/2005
+ */
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
